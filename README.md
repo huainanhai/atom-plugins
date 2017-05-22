@@ -4,13 +4,6 @@ some awesome atom-plugins !
 --- 
 
 
-![demo](http://kompasim.github.io/images/atom-plugin/atom3.png)
-
-
----
-...
-
-
 
 ## 1. emmet
     html补全
@@ -231,14 +224,6 @@ some awesome atom-plugins !
 
 
 
----
-
-
-
----
-
-![demo](http://kompasim.github.io/images/atom-plugin/atom2.png)
-![demo](http://kompasim.github.io/images/atom-plugin/atom1.png)
 
 
 
