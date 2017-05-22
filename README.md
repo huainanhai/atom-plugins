@@ -1,9 +1,5 @@
 # atom-plugins
 ---
-some awesome atom-plugins ! 
---- 
-
-
 
 ## 1. emmet
     html补全
@@ -222,9 +218,3 @@ some awesome atom-plugins !
     侧边树状文件结构的背景和主题背景同步
 
 
-
-
-
-
-
----
